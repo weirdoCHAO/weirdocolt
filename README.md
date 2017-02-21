@@ -1,3 +1,3 @@
-# weirdocolt
+# git 的使用技巧
 
-### This is my first blog
+
